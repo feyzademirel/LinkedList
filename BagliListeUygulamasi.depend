@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1577628705 source:c:\users\pc\desktop\baglilisteuygulamasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+
+1577629773 source:c:\users\pc\desktop\programlama lab projeler\baglilisteuygulamasi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+

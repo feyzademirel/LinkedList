@@ -1,0 +1,806 @@
+PLAKA: 1
+ISIM: Adana	----> 31 ----> 38 ----> 51 ----> 46 ----> 80
+BOLGE: AK
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 2
+ISIM: Adiyaman	----> 21 ----> 27 ----> 44 ----> 46 ----> 63
+BOLGE: GA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 3
+ISIM: Afyonkarahisar	----> 15 ----> 20 ----> 26 ----> 32 ----> 64 ----> 43 ----> 42
+BOLGE: EG
+KOMSU SAYÝSÝ: 7
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 4
+ISIM: Agri	----> 13 ----> 25 ----> 36 ----> 49 ----> 65 ----> 76
+BOLGE: DA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 5
+ISIM: Amasya	----> 19 ----> 55 ----> 60 ----> 66
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 6
+ISIM: Ankara	----> 14 ----> 18 ----> 26 ----> 40 ----> 42 ----> 71 ----> 68
+BOLGE: IA
+KOMSU SAYÝSÝ: 7
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 7
+ISIM: Antalya	----> 15 ----> 32 ----> 48 ----> 33 ----> 42 ----> 70
+BOLGE: AK
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 8
+ISIM: Artvin	----> 25 ----> 53 ----> 75
+BOLGE: KA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 9
+ISIM: Aydin	----> 20 ----> 35 ----> 45 ----> 48
+BOLGE: EG
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 10
+ISIM: Balikesir	----> 16 ----> 17 ----> 35 ----> 43 ----> 45
+BOLGE: MA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 11
+ISIM: Bilecik	----> 14 ----> 16 ----> 26 ----> 54 ----> 43
+BOLGE: MA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 12
+ISIM: Bingol	----> 21 ----> 23 ----> 24 ----> 62 ----> 25 ----> 49
+BOLGE: DA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 13
+ISIM: Bitlis	----> 4 ----> 49 ----> 72 ----> 56 ----> 65
+BOLGE: DA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 14
+ISIM: Bolu	----> 6 ----> 11 ----> 78 ----> 18 ----> 54 ----> 81 ----> 67 ----> 26
+BOLGE: KA
+KOMSU SAYÝSÝ: 8
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 15
+ISIM: Burdur	----> 3 ----> 7 ----> 20 ----> 32 ----> 48
+BOLGE: AK
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 16
+ISIM: Bursa	----> 10 ----> 11 ----> 77 ----> 41 ----> 54 ----> 43
+BOLGE: MA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 17
+ISIM: Canakkale	----> 10 ----> 22 ----> 59
+BOLGE: MA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 18
+ISIM: Cankiri	----> 6 ----> 14 ----> 78 ----> 19 ----> 37 ----> 71
+BOLGE: IA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 19
+ISIM: Corum	----> 5 ----> 18 ----> 71 ----> 37 ----> 55 ----> 57 ----> 66
+BOLGE: KA
+KOMSU SAYÝSÝ: 7
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 20
+ISIM: Denizli	----> 3 ----> 9 ----> 15 ----> 45 ----> 64 ----> 48
+BOLGE: EG
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 21
+ISIM: Diyarbakir	----> 2 ----> 12 ----> 23 ----> 44 ----> 47 ----> 49 ----> 63 ----> 72
+BOLGE: GA
+KOMSU SAYÝSÝ: 8
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 22
+ISIM: Edirne	----> 17 ----> 59 ----> 71
+BOLGE: MA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 23
+ISIM: Elazig	----> 12 ----> 21 ----> 44 ----> 24 ----> 62
+BOLGE: DA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 24
+ISIM: Erzincan	----> 12 ----> 23 ----> 44 ----> 58 ----> 28 ----> 29 ----> 69 ----> 25 ----> 62
+BOLGE: DA
+KOMSU SAYÝSÝ: 9
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 25
+ISIM: Erzurum	----> 4 ----> 8 ----> 24 ----> 69 ----> 53 ----> 12 ----> 75 ----> 36 ----> 49
+BOLGE: DA
+KOMSU SAYÝSÝ: 9
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 26
+ISIM: Eskisehir	----> 3 ----> 6 ----> 43 ----> 11 ----> 14 ----> 42
+BOLGE: IA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 27
+ISIM: Gaziantep	----> 2 ----> 31 ----> 46 ----> 80 ----> 63 ----> 79
+BOLGE: GA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 28
+ISIM: Giresun	----> 24 ----> 29 ----> 52 ----> 58 ----> 61
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 29
+ISIM: Gumushane	----> 24 ----> 28 ----> 61 ----> 69
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 30
+ISIM: Hakkari	----> 65 ----> 73
+BOLGE: DA
+KOMSU SAYÝSÝ: 2
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 31
+ISIM: Hatay	----> 1 ----> 27 ----> 80
+BOLGE: AK
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 32
+ISIM: Isparta	----> 3 ----> 7 ----> 15 ----> 42
+BOLGE: AK
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 33
+ISIM: Mersin	----> 1 ----> 7 ----> 42 ----> 70 ----> 51
+BOLGE: AK
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 34
+ISIM: Istanbul	----> 41 ----> 59
+BOLGE: MA
+KOMSU SAYÝSÝ: 2
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 35
+ISIM: Izmir	----> 9 ----> 10 ----> 45
+BOLGE: EG
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 36
+ISIM: Kars	----> 4 ----> 25 ----> 75 ----> 76
+BOLGE: DA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 37
+ISIM: Kastamonu	----> 18 ----> 19 ----> 78 ----> 74 ----> 57
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 38
+ISIM: Kayseri	----> 1 ----> 46 ----> 51 ----> 50 ----> 66 ----> 58
+BOLGE: IA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 39
+ISIM: Kirklareli	----> 22 ----> 59
+BOLGE: MA
+KOMSU SAYÝSÝ: 2
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 40
+ISIM: Kirsehir	----> 6 ----> 50 ----> 68 ----> 66 ----> 71
+BOLGE: IA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 41
+ISIM: Kocaeli	----> 16 ----> 34 ----> 54 ----> 77
+BOLGE: MA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 42
+ISIM: Konya	----> 3 ----> 6 ----> 32 ----> 7 ----> 26 ----> 33 ----> 68 ----> 51 ----> 70
+BOLGE: IA
+KOMSU SAYÝSÝ: 9
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 43
+ISIM: Kutahya	----> 3 ----> 10 ----> 11 ----> 16 ----> 26 ----> 45 ----> 64
+BOLGE: EG
+KOMSU SAYÝSÝ: 7
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 44
+ISIM: Malatya	----> 2 ----> 21 ----> 58 ----> 24 ----> 23 ----> 46
+BOLGE: DA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 45
+ISIM: Manisa	----> 9 ----> 10 ----> 20 ----> 43 ----> 64 ----> 35
+BOLGE: EG
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 46
+ISIM: Kahramanmaras	----> 1 ----> 2 ----> 80 ----> 27 ----> 38 ----> 58 ----> 44
+BOLGE: AK
+KOMSU SAYÝSÝ: 7
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 47
+ISIM: Mardin	----> 21 ----> 56 ----> 73 ----> 63 ----> 72
+BOLGE: GA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 48
+ISIM: Mugla	----> 7 ----> 9 ----> 15 ----> 20
+BOLGE: EG
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 49
+ISIM: Mus	----> 4 ----> 12 ----> 13 ----> 25 ----> 21 ----> 72
+BOLGE: DA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 50
+ISIM: Nevsehir	----> 38 ----> 40 ----> 68 ----> 51 ----> 66
+BOLGE: IA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 51
+ISIM: Nigde	----> 1 ----> 33 ----> 68 ----> 42 ----> 38 ----> 50
+BOLGE: IA
+KOMSU SAYÝSÝ: 6
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 52
+ISIM: Ordu	----> 28 ----> 55 ----> 58 ----> 60
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 53
+ISIM: Rize	----> 8 ----> 25 ----> 61 ----> 69
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 54
+ISIM: Sakarya	----> 11 ----> 14 ----> 41 ----> 16 ----> 81
+BOLGE: MA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 55
+ISIM: Samsun	----> 5 ----> 19 ----> 57 ----> 52 ----> 60
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 56
+ISIM: Siirt	----> 13 ----> 47 ----> 73 ----> 65 ----> 72
+BOLGE: GA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 57
+ISIM: Sinop	----> 19 ----> 37 ----> 55
+BOLGE: KA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 58
+ISIM: Sivas	----> 24 ----> 28 ----> 66 ----> 60 ----> 52 ----> 38 ----> 44 ----> 46
+BOLGE: IA
+KOMSU SAYÝSÝ: 8
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 59
+ISIM: Tekirdag	----> 17 ----> 22 ----> 34 ----> 39
+BOLGE: MA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 60
+ISIM: Tokat	----> 5 ----> 52 ----> 66 ----> 55 ----> 58
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 61
+ISIM: Trabzon	----> 28 ----> 29 ----> 53 ----> 69
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 62
+ISIM: Tunceli	----> 12 ----> 23 ----> 24
+BOLGE: DA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 63
+ISIM: Sanliurfa	----> 2 ----> 21 ----> 47 ----> 27
+BOLGE: GA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 64
+ISIM: Usak	----> 3 ----> 20 ----> 43 ----> 45
+BOLGE: EG
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 65
+ISIM: Van	----> 4 ----> 13 ----> 30 ----> 56 ----> 73
+BOLGE: DA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 66
+ISIM: Yozgat	----> 5 ----> 19 ----> 50 ----> 40 ----> 71 ----> 38 ----> 58 ----> 60
+BOLGE: IA
+KOMSU SAYÝSÝ: 8
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 67
+ISIM: Zonguldak	----> 14 ----> 74 ----> 78 ----> 81
+BOLGE: KA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 68
+ISIM: Aksaray	----> 6 ----> 40 ----> 42 ----> 50 ----> 51
+BOLGE: IA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 69
+ISIM: Bayburt	----> 24 ----> 25 ----> 29 ----> 61 ----> 53
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 70
+ISIM: Karaman	----> 7 ----> 33 ----> 42
+BOLGE: IA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 71
+ISIM: Kirikkale	----> 6 ----> 18 ----> 19 ----> 40 ----> 66
+BOLGE: IA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 72
+ISIM: Batman	----> 13 ----> 21 ----> 47 ----> 49 ----> 56
+BOLGE: GA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 73
+ISIM: Sirnak	----> 30 ----> 47 ----> 56 ----> 65
+BOLGE: GA
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 74
+ISIM: Bartin	----> 37 ----> 67 ----> 78
+BOLGE: KA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 75
+ISIM: Ardahan	----> 8 ----> 25 ----> 36
+BOLGE: DA
+KOMSU SAYÝSÝ: 3
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 76
+ISIM: Igdir	----> 4 ----> 36
+BOLGE: DA
+KOMSU SAYÝSÝ: 2
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 77
+ISIM: Yalova	----> 16 ----> 41
+BOLGE: MA
+KOMSU SAYÝSÝ: 2
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 78
+ISIM: Karabuk	----> 14 ----> 18 ----> 37 ----> 67 ----> 74
+BOLGE: KA
+KOMSU SAYÝSÝ: 5
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 79
+ISIM: Kilis	----> 27
+BOLGE: GA
+KOMSU SAYÝSÝ: 1
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 80
+ISIM: Osmaniye	----> 1 ----> 27 ----> 31 ----> 46
+BOLGE: AK
+KOMSU SAYÝSÝ: 4
+
+
+  ||   	 /\ 
+ \  /	/  \ 
+  \/ 	 ||
+
+PLAKA: 81
+ISIM: Duzce	----> 14 ----> 54 ----> 67
+BOLGE: KA
+KOMSU SAYÝSÝ: 3
+
+
